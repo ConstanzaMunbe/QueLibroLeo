@@ -1,7 +1,7 @@
 ﻿# QueLibroLeo
 Descripción del objetivo del trabajo con la página web.
 
-##(QueLibroLeo)[https://www.quelibroleo.com)
+##(QueLibroLeo)[https://www.quelibroleo.com]
 ### Desarrollo Idea de Trabajo
 - **Introducción**
 La página **QueLibroLeo** es una *biblioteca online*, la cual contiene una amplia variedad de libros, clasificados por diferentes categorías como *Libros Ganadores de Diversos Premios de Literatura*, también cuenta con *rankings* basados en objetivos específicos.  “QueLibroLeo” es una página que tiene suscriptores, los cuales pueden otorgar notas, críticas y puntuaciones a los libros virtuales. 
